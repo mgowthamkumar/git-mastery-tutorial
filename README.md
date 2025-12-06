@@ -1,2 +1,87 @@
-<h1>dhanush</h1>
-<h2>isanth kanna </h2>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    body{
+        background-color: red;
+        color: white;
+        text-align: center;
+        padding: 5px;
+        border-color: dotted black;
+        border-radius: 10px;
+        margin: 1;
+    }
+    .a{
+        background-color: red;
+        color: white;
+        text-align: center;
+    }
+    .nav{
+        background-color: yellow;
+        color: white;
+        padding: 5px;
+        border-color: dotted white;
+    }
+    h1{
+        background: linear-gradient(to right,orange,blue,red);
+        -webkit-background-clip: text;
+        -webkit-background: text;
+        color: transparent;
+    }
+    .thor{
+        background-color: white;
+        background: linear-gradient(to right,blue,grey,brown);
+        -webkit-background-clip: text;
+        -webkit-background: text;
+        color: transparent;
+        padding: 10px;
+        border-radius: 15px;
+    }
+    .captainamerica{
+        background-color: white;
+        background: linear-gradient(to left,white,blue,red);
+        -webkit-background-clip: text;
+        -webkit-background: text;
+        color: transparent;
+        padding: 10px;
+        border-radius: 15px;
+    }
+    .ghostrider{
+        background-color: orange;
+        background: linear-gradient(to top,darkorange,grey,black);
+        -webkit-background-clip: text;
+        -webkit-backround: text;
+        color: transparent;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    a:hover{
+        background: radical-gradient(blue,orange,red);
+        color: white;
+    }
+    nav:hover{
+        background-color: white;
+        color: red;
+    }
+    h1:hover{
+        background-color: white;
+        color: blue;
+    }
+</style>
+</head>
+<body>
+<h1> MARVEL SUPERHEROES</h1>
+<nav>
+<a>thor</a>
+<a>captainamerica</a>
+<a>ghostrider</a>
+</nav>
+<div class="thor">
+<p>thor is an popular superhero from marvel comics.he is known as the god of thunder.thor is the son of odin,the king of asgard.he lifts mjolhir.he is worthly to lift mjolhir.his brother loki is evil and villan character.thor is strongest character in avengers team.</p>
+</div>
+<div class="captainamerica">
+<p>captain america is famous character in marvel his real name is steve rogers.his is very young avenger and strongest character in avengers he is the only man who stands against whole thanos army with his broken shield it is the historical cinema stand face and coldest walk in cinema history.</p>
+<div class="ghostrider">
+<p>ghost rider is the strongest character and most evilest superhero in marvel comics.he is also known as sprit of venegenance.his eyes only ok to defeat wholw avengers team his eyes includes evilest hell</p>
+</body>
+</html>
