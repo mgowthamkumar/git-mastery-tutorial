@@ -24,6 +24,7 @@
     }
     h1{
         background: linear-gradient(to right,orange,blue,red);
+        background-clip: text;
         -webkit-background-clip: text;
         -webkit-background: text;
         color: transparent;
@@ -31,6 +32,7 @@
     .thor{
         background-color: white;
         background: linear-gradient(to right,blue,grey,brown);
+        background-clip: text;
         -webkit-background-clip: text;
         -webkit-background: text;
         color: transparent;
@@ -40,6 +42,7 @@
     .captainamerica{
         background-color: white;
         background: linear-gradient(to left,white,blue,red);
+        background-clip: text;
         -webkit-background-clip: text;
         -webkit-background: text;
         color: transparent;
@@ -49,6 +52,7 @@
     .ghostrider{
         background-color: orange;
         background: linear-gradient(to top,darkorange,grey,black);
+        background-clip: text;
         -webkit-background-clip: text;
         -webkit-backround: text;
         color: transparent;
